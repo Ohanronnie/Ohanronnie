@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ohanronnie
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in full stack developing 
 - 🌱 I’m currently learning html js and css
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me +2347089314662
